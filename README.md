@@ -1,7 +1,7 @@
 # Python-Packet-Sniffing
 Created network analysis tool with Python &amp; Wireshark. Transformed data into KML for geo-analysis. Integrated GeoLiteCity for IP mapping. Developed Google Maps interface for user-friendly IP interaction.
 
-//SERBIAN//
+//SERBIAN// ENGLISH BELLOW
 
 1. Prvo što moramo uraditi je kreirati naše ulazne podatke u Wireshark-u tako što ćemo hvatati pakete i njih sačuvati u .pcap formatu. Pcap fajl će se sastojati od celokupnog mrežnog saobraćaja koji ulazi i izlazi iz našeg uređaja tokom perioda kada je funkcija hvatanja paketa aktivirana.
 
